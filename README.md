@@ -2,7 +2,7 @@
 Q: What's PlexiBot ? 
 
 A:  Team 1635's 2017 FIRST Robotics Competition Robot.
-# Picture
+
 ![alt tag](https://i.imgur.com/NAjBqcK.jpg)
 
 # Dependancies
