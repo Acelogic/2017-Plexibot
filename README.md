@@ -14,8 +14,8 @@ FRC team 1635's Plexibot performed in the <a href="https://en.wikipedia.org/wiki
 * Featured course correction algorithms to drive straight autonomously and change direction utilizating a navX sensor
 
 # Images
-<a href="url"><img src="https://i.imgur.com/yEHmitO.jpg" align="right" width="450"></a>
-<a href="url"><img src="https://i.imgur.com/Jio0N3i.jpg" align="right" width="450"></a>
+<a href="url"><img src="https://i.imgur.com/yEHmitO.jpg" align="center" width="450"></a>
+<a href="url"><img src="https://i.imgur.com/Jio0N3i.jpg" align="center" width="450"></a>
 
 
 
