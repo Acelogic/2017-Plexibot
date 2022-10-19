@@ -11,7 +11,7 @@ FRC team 1635's Plexibot performed in the <a href="https://en.wikipedia.org/wiki
 # Capabilities
 * Had a range of 5 subsystems consisting of a drive train, roller, winch, vision and actuator 
 * Performed Vision Processing assisted autonomous operation using OpenCV
-* Featured course correction algorithms to drive straight autonomously and change direction utilizating a navX sensor
+* Featured course correction algorithms to drive straight autonomously and change direction utilizing a navX sensor
 
 # Images
 <a href="url"><img src="https://i.imgur.com/yEHmitO.jpg" align="center" width="450"></a>
